@@ -13,6 +13,7 @@
 		5C5DC18D2850543A00C1A16A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C5DC18B2850543A00C1A16A /* Main.storyboard */; };
 		5C5DC18F2850543C00C1A16A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C5DC18E2850543C00C1A16A /* Assets.xcassets */; };
 		5C5DC1922850543C00C1A16A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C5DC1902850543C00C1A16A /* LaunchScreen.storyboard */; };
+		5C5DC19A2850694100C1A16A /* ExercisesProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5DC1992850694100C1A16A /* ExercisesProtocol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5C5DC18E2850543C00C1A16A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C5DC1912850543C00C1A16A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C5DC1932850543C00C1A16A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C5DC1992850694100C1A16A /* ExercisesProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExercisesProtocol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5C5DC18E2850543C00C1A16A /* Assets.xcassets */,
 				5C5DC1902850543C00C1A16A /* LaunchScreen.storyboard */,
 				5C5DC1932850543C00C1A16A /* Info.plist */,
+				5C5DC1992850694100C1A16A /* ExercisesProtocol.swift */,
 			);
 			path = FactoryMethodDesignPattern;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				5C5DC18A2850543A00C1A16A /* ViewController.swift in Sources */,
 				5C5DC1862850543A00C1A16A /* AppDelegate.swift in Sources */,
 				5C5DC1882850543A00C1A16A /* SceneDelegate.swift in Sources */,
+				5C5DC19A2850694100C1A16A /* ExercisesProtocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
